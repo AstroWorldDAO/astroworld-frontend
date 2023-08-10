@@ -18,6 +18,8 @@
 You can use this frontend files for your own project. For more details check out or [LICENSE](/LICENSE).
 
 # Start with
-
+```javascript
+npm start
+```
 
 # Happy Hacking !
