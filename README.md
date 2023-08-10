@@ -3,8 +3,8 @@
 The packages we used in this project: 
 | Package                                          | Description                                   |
 |--------------------------------------------------|-----------------------------------------------|
-| react                                            | A framework the site has built on             |
-| framer-motion                                    | For animations in the website                 |
+| React                                            | A framework the site has built on             |
+| Framer-Motion                                    | For animations in the website                 |
 | React-Hot-Toast                                  | For notifications                             |
 | React Icons                                      | For icons in the website                      |
 
